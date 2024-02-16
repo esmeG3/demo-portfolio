@@ -107,4 +107,8 @@ h1 {
 .homepage a {
     padding: 10px 8px;
 }
+
+.about-paragraphs {
+     font-size: 10px;
+}
 }
