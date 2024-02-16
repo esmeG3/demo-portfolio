@@ -86,3 +86,25 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+@media (max-width: 768px) {
+h1 {
+    font-size: 68px;
+}
+
+.homepage h2 {
+    font-size: 30px;
+}
+
+
+.homepage img {
+  margin: 20px 0px;
+  max-width: 100%;
+}
+}
+
+@media (max-width: 550px) {
+.homepage a {
+    padding: 10px 8px;
+}
+}
